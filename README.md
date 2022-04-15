@@ -1,6 +1,6 @@
-##This is my group project
+## This is my group project
 
-##Team members:
+## Team members:
     Thapa Sanjay
     Doris
     
