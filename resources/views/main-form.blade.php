@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+    <!--Thapa Sanjay -->
+    <!--Registration Form-->
 <head>
     <title>Registration</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -41,3 +43,4 @@
 </div>  
 </body>
 </html>
+<!--Thapa Sanjay -->
