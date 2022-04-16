@@ -5,6 +5,7 @@
     Thapa Sanjay
     Doris
     Terry
+    Daniel
     
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
