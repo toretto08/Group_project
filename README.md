@@ -4,6 +4,7 @@
 ## Team members:
     Thapa Sanjay
     Doris
+    Terry
     
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
